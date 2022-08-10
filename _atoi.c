@@ -1,5 +1,4 @@
 #include "shell.h"
-
 /**
  * _atoi - converts string to number
  * @s : pointer int
