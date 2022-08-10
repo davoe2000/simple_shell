@@ -7,6 +7,7 @@
  *
  * Return: count
  */
+
 int linecount(int increment)
 {
 	static int count;
