@@ -75,6 +75,7 @@ char *_strdup(char *str)
  * @src: source
  * Return: concated string
  */
+
 char *_strcat(char *dest, char *src)
 {
 	char *ptrs = dest;
