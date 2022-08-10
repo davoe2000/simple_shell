@@ -3,7 +3,6 @@
  *
  * Return: environ address
  */
-
 char ***getenviron()
 {
 	static char **environ;
